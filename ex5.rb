@@ -1,0 +1,3 @@
+my_name = 'Zed A.Shaw'
+my_age = 35 # not a lie
+
